@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.444,=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.319,E:\Git\carnival-accounting\Unit1.pas=E:\Git\carnival-accounting\gl_posting.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.171,=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.841,=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.469,=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.493,=C:\Users\shevaadit\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.332,E:\Git\carnival-accounting\kb_input.pas=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.586,=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.079,=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.125,=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.990,E:\Git\carnival-accounting\kb_posting.pas=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.677,E:\Git\carnival-accounting\main.dfm=C:\Users\shevaadit\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.319,E:\Git\carnival-accounting\Unit1.dfm=E:\Git\carnival-accounting\gl_posting.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.228,E:\Git\carnival-accounting\kb_edit.dfm=E:\Git\carnival-accounting\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.157,E:\Git\carnival-accounting\u_kb_datamodule.dfm=E:\Git\carnival-accounting\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.455,=E:\Git\carnival-accounting\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.957,=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.332,E:\Git\carnival-accounting\kb_input.dfm=E:\Git\carnival-accounting\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.194,E:\Git\carnival-accounting\Unit2.pas=E:\Git\carnival-accounting\inputGL.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.228,E:\Git\carnival-accounting\kb_edit.pas=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.096,E:\Git\carnival-accounting\gl_edit.pas=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.194,E:\Git\carnival-accounting\Unit2.dfm=E:\Git\carnival-accounting\inputGL.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.799,E:\Git\carnival-accounting\gl_input.dfm=E:\Git\carnival-accounting\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.096,E:\Git\carnival-accounting\gl_edit.dfm=E:\Git\carnival-accounting\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.677,E:\Git\carnival-accounting\main.pas=C:\Users\shevaadit\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.171,E:\Git\carnival-accounting\UI_Modul.dfm=E:\Git\carnival-accounting\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.799,E:\Git\carnival-accounting\gl_input.pas=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.171,E:\Git\carnival-accounting\UI_Modul.pas=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.990,E:\Git\carnival-accounting\kb_posting.dfm=E:\Git\carnival-accounting\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.644,E:\Git\carnival-accounting\accounting.dproj=C:\Users\shevaadit\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.157,E:\Git\carnival-accounting\u_kb_datamodule.pas=E:\Git\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>2017/10/31 11:30:24.000.541,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\gl_form\gl_edit.pas</Transaction>
+    <Transaction>2017/10/31 11:30:25.000.306,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\gl_form\gl_input.pas</Transaction>
+    <Transaction>2017/10/31 11:30:25.000.815,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\gl_form\gl_posting.pas</Transaction>
+    <Transaction>2017/10/31 11:30:36.000.897,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\kb_form\kb_edit.pas</Transaction>
+    <Transaction>2017/10/31 11:30:39.000.917,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\kb_form\kb_input.pas</Transaction>
+    <Transaction>2017/10/31 11:30:40.000.541,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\kb_form\kb_posting.pas</Transaction>
+    <Transaction>2017/10/31 11:38:52.000.875,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>2017/10/31 11:39:46.000.814,D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\Unit1.pas=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\browse_form\gl_browse.pas</Transaction>
+    <Transaction>2017/10/31 11:39:46.000.814,D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\Unit1.dfm=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\browse_form\gl_browse.dfm</Transaction>
+    <Transaction>2017/10/31 11:50:31.000.344,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>2017/10/31 14:39:28.466,D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\u_kb_datamodule.pas=</Transaction>
+    <Transaction>2017/10/31 14:49:31.585,=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\Unit1.pas</Transaction>
+    <Transaction>2017/10/31 14:50:06.876,D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\unit_module\u_gl_module.dfm=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\Unit1.dfm</Transaction>
+    <Transaction>2017/10/31 14:50:06.876,D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\unit_module\u_gl_module.pas=D:\01_PT Sekar Bumi tbk\12_GIT\carnival-accounting\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

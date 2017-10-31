@@ -1,0 +1,24 @@
+unit u_gl_module;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  Tu_gl_moduleF = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  u_gl_moduleF: Tu_gl_moduleF;
+
+implementation
+
+{$R *.dfm}
+
+end.
